@@ -1,0 +1,50 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body{
+background-image: url(https://img.lovepik.com/background/20211022/large/lovepik-minimalist-business-background-image_401948591.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+margin: 10% 30%;
+font-size: 40px;
+background-color: rgb(0, 48, 119);
+
+}
+
+.exercicios{
+background-color: rgba(2, 0, 26, 0.678);
+padding: 20px;
+color: rgba(255, 255, 255, 0.76);
+border-radius: 15px;
+}
+
+.exercicios input{
+padding: 20px;
+font-size: 20px;
+margin: 5px;
+color: rgb(255, 255, 255);
+box-shadow: 1px 1px 2px black;
+transition: 100ms;
+border-radius: 15px;
+
+
+}
+
+.exercicios input:hover{
+box-shadow: 2px 2px 5px black;
+
+}
+
+form input[type=text]{
+background-color: rgba(61, 61, 61, 0.363);
+
+}
+
+form input[type=button]{
+    background-color: rgba(61, 61, 61, 0.363);
+    color: ;
+    }
